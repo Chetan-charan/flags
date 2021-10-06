@@ -1,0 +1,27 @@
+img {
+    object-fit: contain;
+    height: 300px;
+    width: 300px;
+    
+
+}
+p {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+body {
+    background-color: beige;
+}
+
+nav {
+    background-color: rgb(240, 220, 183);
+}
+
+nav > p {
+    text-align: left;
+    padding: 20px;
+    font-weight: bold;
+}
